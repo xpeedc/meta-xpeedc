@@ -1,2 +1,1 @@
 # meta-xpeedc
-OpenPLi BSP
